@@ -24,6 +24,14 @@ The `AliExpressBot` class automates product searches on AliExpress and provides 
 - Ensure you have Java installed.
 - Clone the repository to your local machine.
 
+## Clone the Repository
+
+To clone this repository and get a local copy on your machine, use the following command:
+
+```bash
+git clone https://github.com/MohammadThabetHassan/Java-Automated-Bots.git
+```
+
 ### Running the Bots
 - Compile and execute the desired Java file (`Main.java`, `Noonbot.java`, or `AliExpressBot.java`).
 - Follow on-screen instructions to interact with the bots.
