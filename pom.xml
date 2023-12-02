@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.sendemail</groupId>
+    <artifactId>untitled1</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <repositories>
+        <repository>
+            <id>playwright</id>
+            <name>Playwright Repository</name>
+            <url>https://repo.maven.apache.org/maven2</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>com.sun.mail</groupId>
+            <artifactId>javax.mail</artifactId>
+            <version>1.6.2</version>
+        </dependency>
+        <dependency>
+            <groupId>com.microsoft.playwright</groupId>
+            <artifactId>playwright</artifactId>
+            <version>1.31.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xbean</groupId>
+            <artifactId>xbean-reflect</artifactId>
+            <version>4.22</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-fxml</artifactId>
+            <version>21-ea+17</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jline</groupId>
+            <artifactId>jline</artifactId>
+            <version>3.23.0</version>
+        </dependency>
+        <dependency>
+
+            <groupId>com.google.code.gson</groupId>
+
+            <artifactId>gson</artifactId>
+
+            <version>2.8.6</version>
+
+            <type>jar</type>
+
+        </dependency>
+
+        <dependency>
+
+            <groupId>javax.ws.rs</groupId>
+
+            <artifactId>javax.ws.rs-api</artifactId>
+
+            <version>2.0</version>
+
+        </dependency>
+
+        <dependency>
+
+            <groupId>org.jboss.resteasy</groupId>
+
+            <artifactId>resteasy-client</artifactId>
+
+            <version>3.1.0.Final</version>
+
+        </dependency>
+
+        <dependency>
+
+            <groupId>javax.json</groupId>
+
+            <artifactId>javax.json-api</artifactId>
+
+            <version>1.1.4</version>
+
+        </dependency>
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-web-api</artifactId>
+            <version>7.0</version>
+        </dependency>
+
+
+    </dependencies>
+
+</project>
