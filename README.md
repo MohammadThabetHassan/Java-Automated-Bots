@@ -20,8 +20,8 @@ The `AliExpressBot` class automates product searches on AliExpress and provides 
 ## Video Demonstration
 
 Watch the bot automation in action:
+https://github.com/MohammadThabetHassan/Java-Automated-Bots/assets/141744086/4310b286-84f0-479a-8d1f-d0f56efca17b
 
-![4p9p4o](https://github.com/MohammadThabetHassan/Java-Automated-Bots/assets/141744086/4310b286-84f0-479a-8d1f-d0f56efca17b)
 
 ## How to Use
 
