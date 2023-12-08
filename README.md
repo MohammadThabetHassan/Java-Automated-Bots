@@ -17,7 +17,8 @@ The `Noonbot` class facilitates product search on Noon and provides options to r
 ### AliExpress Bot (`AliExpressBot.java`)
 The `AliExpressBot` class automates product searches on AliExpress and provides options for notifications:
 - Search for a product, select items, and receive details via email or WhatsApp.
-
+##Video
+[Bot automation in action](video.mp4)
 ## How to Use
 
 ### Setup
